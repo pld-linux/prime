@@ -2,7 +2,7 @@ Summary:	PRIME - a Japanese PRedictive Input Method Editor
 Summary(pl.UTF-8):	PRIME - edytor przewidującej metody wprowadzania tekstu japońskiego
 Name:		prime
 Version:	1.0.0.1
-Release:	5
+Release:	6
 License:	GPL v2
 Group:		Libraries
 Source0:	http://prime.sourceforge.jp/src/%{name}-%{version}.tar.gz
